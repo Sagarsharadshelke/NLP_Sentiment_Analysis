@@ -1,0 +1,5 @@
+contractions
+unidecode
+nltk
+sklearn
+flask
