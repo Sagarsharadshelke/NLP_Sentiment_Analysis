@@ -1,0 +1,4 @@
+Sentiment analysis on hospital reviews involves analyzing the sentiment expressed in the feedback or reviews provided by patients about their 
+experiences with hospitals and healthcare facilities. The goal is to determine whether the sentiment expressed in the reviews is positive and negative. 
+This analysis provides valuable insights to healthcare providers, allowing them to understand patient satisfaction levels, identify areas for improvement,
+and make data-driven decisions to enhance the quality of care.
